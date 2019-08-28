@@ -1,7 +1,7 @@
 import Animation from '../base/animation'
 import DataBus   from '../databus'
 
-const ENEMY_IMG_SRC = 'images/lwx.png'
+const ENEMY_IMG_SRC = 'images/gq1.png'
 const ENEMY_WIDTH   = 60
 const ENEMY_HEIGHT  = 60
 
